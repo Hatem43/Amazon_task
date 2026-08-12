@@ -1,2 +1,1 @@
-# Amazon_task
-Task1
+Automation testing using Selenium for Amazon
