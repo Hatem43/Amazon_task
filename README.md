@@ -1,1 +1,1 @@
-Automation testing using Selenium for Amazon
+Automation testing for Amazon task using Selenium
